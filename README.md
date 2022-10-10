@@ -18,7 +18,7 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 ## Dataset
 The dataset contains web scraped data of 10k Play Store apps for analysing the Android market. It contains the first 'most relevant' 100 reviews for each app. Each review text/comment has been pre-processed and attributed with 3 new features - Sentiment, Sentiment Polarity and Sentiment Subjectivity.More details of the dataset can be found in the kaggle website.https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv
 
-## Technical Aspects
+## Technical Aspect
 This project is divided into two parts.
 1. Data Preprocessing
       - Analyze and explore the data, converting dtype of columns from object to numerical or datetime format as per needed to make it ready for our analysis.
