@@ -51,7 +51,7 @@ This project need software to run this python notebook "Jupyter Notebook" or "Go
 └── Result
 ```
 
-## Technology Used
+## Technologies Used
 ![image](https://user-images.githubusercontent.com/112171582/194882226-134ead9a-cb1c-4762-80bc-eee7472b037f.png)
 
 ## Inferences and Conclusion
