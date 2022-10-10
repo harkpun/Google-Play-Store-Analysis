@@ -40,7 +40,7 @@ This project need software to run this python notebook "Jupyter Notebook" or "Go
 │   ├── User Review Data
 ├── Process 
 │   ├── Uploading Dataset 
-│   ├── Abalyze Data
+│   ├── Data Analyzing
 │   ├── Type Casting
 │   ├── Data Imputation
 │   ├── Data Cleaning
